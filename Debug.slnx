@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/foo/">
+    <File Path="bar.txt" />
+  </Folder>
+  <Project Path="Debug/Debug.csproj" />
+</Solution>
